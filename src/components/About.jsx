@@ -48,7 +48,7 @@ const About = () => {
                 Transforming Businesses Through <span className="text-accent">Technology</span>
               </h3>
               <p className="lead mb-4 text-light-emphasis">
-                At Artylsoft, we are passionate about helping businesses succeed in the digital age. 
+                At Artlysoft, we are passionate about helping businesses succeed in the digital age. 
                 Our team of experts combines technical expertise with industry knowledge to deliver 
                 innovative solutions that drive growth and efficiency.
               </p>

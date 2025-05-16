@@ -16,7 +16,7 @@ const Footer = () => {
       <Container>
         <Row className="mb-5">
           <Col md={3} data-aos="fade-up" data-aos-delay="0">
-            <h5 className="text-accent mb-3">About Artylsoft</h5>
+            <h5 className="text-accent mb-3">About Artlysoft</h5>
             <p className="small text-white-emphasis">
               Driving digital innovation through expert IT solutions. We specialize in web, mobile, and enterprise applications tailored to your needs.
             </p>

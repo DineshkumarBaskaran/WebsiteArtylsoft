@@ -37,7 +37,7 @@ const NavigationBar = () => {
             height="50" 
             className="d-inline-block align-top"
           />
-          <span className="fw-bold fs-4 text-dark mb-0">Artylsoft</span>
+          <span className="fw-bold fs-4 text-dark mb-0">Artlysoft</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="border-0">
           <span className="navbar-toggler-icon"></span>
